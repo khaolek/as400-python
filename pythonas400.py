@@ -8,8 +8,8 @@ import os
 as400_server = "255.255.255.255"
 #as400_user = "quser"
 #as400_password = "quser"
-as400_user = "NBOUSR"
-as400_password = "NBOUSR"
+as400_user = "BBOUSR"
+as400_password = "BBOUSR"
 as400_library = "TPIDEV"
 
 jcom_ibm_as400_access_AS400 = "com.ibm.as400.access.AS400"

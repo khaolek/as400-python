@@ -1,2 +1,2 @@
 # as400python
-python connect to ibm as400 with java and itoolkit on windwos os
+python connect to ibm as400 with java, pyodbc and itoolkit on windwos os
